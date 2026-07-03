@@ -2,7 +2,7 @@
 
 A single-file, menu-driven **Windows batch (.bat)** utility for cleaning temp files, caches, and logs, plus a set of handy system tools — disk space reports, largest-files scan, installed-programs uninstaller, disk health check, CHKDSK, and scheduled automatic cleaning.
 
-By **Bassem Mohamed** — [hyperflow-corp.pages.dev](https://hyperflow-corp.pages.dev/)
+By **Bassem Mohamed** — [![Hyperflow copr.](https://img.shields.io/badge/Hyperflow-corp?style=for-the-badge&color=4C0099&link=https%3A%2F%2Fbasira-6m0.pages.dev)](https://hyperflow-corp.pages.dev/)
 
 ---
 
