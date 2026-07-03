@@ -98,7 +98,7 @@ Released under the [MIT License](LICENSE).
 أداة تنظيف وصيانة لويندوز في ملف batch واحد، بقائمة تفاعلية: تنظيف الملفات المؤقتة والكاش والسجلات، بالإضافة لأدوات نظام زي تقرير مساحة القرص، أكبر الملفات، إدارة إلغاء تثبيت البرامج، فحص صحة القرص، CHKDSK، وجدولة تنظيف تلقائي.
 
 بواسطة **Bassem Mohamed** 
-— [hyperflow-corp.pages.dev](https://hyperflow-corp.pages.dev/)
+- [![Hyperflow copr.](https://img.shields.io/badge/Hyperflow-corp?style=for-the-badge&color=4C0099&link=https%3A%2F%2Fbasira-6m0.pages.dev)](https://hyperflow-corp.pages.dev/)
 
 ### المتطلبات
 - ويندوز 10 أو 11
