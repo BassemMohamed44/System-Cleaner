@@ -6,6 +6,9 @@ By **Bassem Mohamed**
 - [![Hyperflow copr.](https://img.shields.io/badge/Hyperflow-corp?style=for-the-badge&color=4C0099&link=https%3A%2F%2Fbasira-6m0.pages.dev)](https://hyperflow-corp.pages.dev/)
 
 ---
+<img src="Screenshots/System Cleaner.png" alt="SC">
+
+---
 
 ## Features
 
